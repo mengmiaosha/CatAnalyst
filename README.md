@@ -1,57 +1,56 @@
 # <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="50"> Chen Meng 
 
-> *"白天用Python驯服数据，晚上用Excel给猫记账  
-> 会3国语言的数据炼金师（其中一门是猫语）"*
+> *"Taming data with Python by day, managing cat finances with Excel by night  
+> Trilingual data alchemist (one language is Cat)"*
 
 ---
 
-## 🛠️ **我的魔法工具箱**
+## 🛠️ **My Magic Toolkit**
 ```python
 def tool_kit():
     return {
-        "正经技能": ["Python(Pandas)", "SQL", "Excel巫术"], 
-        "隐藏属性": [
-            "能把老板的需求翻译成人话",
-            "用VBA自动回复'在忙，稍等'",
-            "证明养猫比养程序员便宜"
+        "Core Skills": ["Python(Pandas)", "SQL", "Excel Wizardry"], 
+        "Secret Powers": [
+            "Translating boss requirements to human language",
+            "Auto-replying 'Busy, talk later' with VBA",
+            "Proving cats are cheaper than programmers"
         ]
     }
 ```
 
 ![猫猫分析数据](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)  
-*(正在努力敲代码的喵星人)*
 
 ---
 
-## 🏆 **职场高光（猫猫认证版）**
+## 🏆 **Career Highlights**
 ```sql
 SELECT * FROM achievements 
 WHERE purr_approval = TRUE;
--- > "曾用Python让客户少骂人20% 😼"
--- > "把Excel模型调教得比猫还听话"
--- > "用数据分析证明：猫罐头 > 星巴克"
+-- > "Reduced customer complaints by 20% with Python NLP 😼"
+-- > "Trained Excel models to behave better than cats"
+-- > "Data-proven: Cat food > Starbucks"
 ```
 
 ---
 
-## 🌈 **今日能量分布** (猫猫监工版)
+## 🌈 **Daily Energy Allocation**
 ```diff
-# 咖啡因驱动的工作流
-+ 写代码    ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰ 35% (🐾"Pandas不是动物！")
-+ 修bug    ▰▰▰▰▰▰▰▰▰▰▰▰ 25% (😾"谁动了我的缩进？")
-+ 战Excel  ▰▰▰▰▰▰▰▰▰ 20% (👻"VBA又自己跑了...")
-+ 撸猫充电 ▰▰▰▰▰▰ 15% (😻"最佳debug伴侣")
-+ 思考人生 ▰▰▰ 5%  (🌌"宇宙的尽头是Excel")
+# Caffeine-Powered Workflow
++ Coding    ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰ 35% (🐾"Pandas aren't animals!")
++ Debugging ▰▰▰▰▰▰▰▰▰▰▰▰ 25% (😾"Who messed my indentation?")
++ Excel Wars ▰▰▰▰▰▰▰▰▰ 20% (👻"VBA ran away again...")
++ Cat Therapy ▰▰▰▰▰▰ 15% (😻"Ultimate debug partner")
++ Existential Crisis ▰▰▰ 5% (🌌"The universe runs on Excel")
 ```
 
 ---
 
-## 📮 **联系方式（猫爪认证）**
+## 📮 **Contact Me**
 ```diff
-! 📧 邮箱: mengmiaosha91@gmail.com  
-! 💼 LinkedIn: [Feed me fish here](
+! 📧 Email: mengmiaosha91@gmail.com  
+! 💼 LinkedIn: [Professional Profile](
 https://linkedin.com/in/chen-meng-023712316)
-# 友情提示：周末回复较慢（可能在陪猫）
+# Note: Slow response on weekends (probably cat-sitting)
 ```
 
 <details>
@@ -59,11 +58,11 @@ https://linkedin.com/in/chen-meng-023712316)
 
 ```python
 cat_facts = [
-    "1个bug = 需要挠3下椅子",
-    "Python代码质量与腿上猫的数量成正比",
-    "最好的调试方法是盯着猫看10秒"
+    "1 bug = 3 chair scratches required",
+    "Code quality ∝ number of cats on lap",
+    "Best debugging method: stare at cat for 10s"
 ]
-print("🐱 数据分析师的猫学原理：")
+print("🐱 Data Scientist's Feline Principles:")
 for fact in cat_facts:
     print(f"• {fact}")
 ```
