@@ -32,12 +32,12 @@ SELECT achievement FROM chen_meng WHERE humor = TRUE;
 
 ### 🌱 **Currently...**  
 - 教我的猫学SQL（它只学会了`SELECT * FROM food_bowl`）  
-- 在德国用A2德语点咖啡（成功率50% ☕）  
+- 在德国用A2德语点咖啡（成功率100% ☕）  
 
 ### 📫 **How to Reach Me**  
 ```diff
 ! Email: mengmiaosha91@gmail.com  
-! LinkedIn: [你的LinkedIn链接](www.linkedin.com/in/chen-meng-023712316)
+! LinkedIn: (www.linkedin.com/in/chen-meng-023712316)
 ```
 
 ![猫猫代码图](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDZxYzFhM2R0eWY4Z2R4Z3B6dGJ6Y2N1ZGNiNnJtYzZqZ2Z1eGZ1byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JIX9t2j0ZTN9S/giphy.gif)
