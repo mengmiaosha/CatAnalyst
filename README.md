@@ -49,8 +49,8 @@ WHERE purr_approval = TRUE;
 ## 📮 **联系方式（猫爪认证）**
 ```diff
 ! 📧 邮箱: mengmiaosha91@gmail.com  
-! 💼 LinkedIn: [点击投喂小鱼干](
-https://linkedin.com/in/你的名字)
+! 💼 LinkedIn: [Feed me fish here](
+https://linkedin.com/in/chen-meng-023712316)
 # 友情提示：周末回复较慢（可能在陪猫）
 ```
 
@@ -69,4 +69,4 @@ for fact in cat_facts:
 ```
 </details>
 
-![猫猫监工](https://media.giphy.com/media/13CoXDiaCcCoyk/giphy.gif)
+![猫猫kafffe](https://media.giphy.com/media/3nbxypT20Ulmo/giphy.gif?cid=ecf05e472w5wjfgu84w98gcwbqi7odckyf1un7bcy41xewd7&ep=v1_gifs_search&rid=giphy.gif&ct=g)
