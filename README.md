@@ -34,16 +34,14 @@ WHERE purr_approval = TRUE;
 
 ---
 
-## 🌈 **今日能量分布**
-```mermaid
-pie
-    title 咖啡因驱动的一天
-    "写代码" : 35
-    "修bug" : 25
-    "和Excel搏斗" : 20
-    "撸猫充电" : 15
-    "思考人生" : 5
-    colors: ["#FFD1DC","#CAE4FF","#B5EAD7","#FFC8DD","#E2F0CB"]
+## 🌈 **今日能量分布** (猫猫监工版)
+```diff
+# 咖啡因驱动的工作流
++ 写代码    ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰ 35% (🐾"Pandas不是动物！")
++ 修bug    ▰▰▰▰▰▰▰▰▰▰▰▰ 25% (😾"谁动了我的缩进？")
++ 战Excel  ▰▰▰▰▰▰▰▰▰ 20% (👻"VBA又自己跑了...")
++ 撸猫充电 ▰▰▰▰▰▰ 15% (😻"最佳debug伴侣")
++ 思考人生 ▰▰▰ 5%  (🌌"宇宙的尽头是Excel")
 ```
 
 ---
@@ -71,4 +69,4 @@ for fact in cat_facts:
 ```
 </details>
 
-![猫猫监工](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTZqbmVmbG5zY2Z6Y3RqZ2JtZ3B0ZGNiNnJtYzZqZ2Z1eGZ1byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13CoXDiaCcCoyk/giphy.gif)
+![猫猫监工](https://media.giphy.com/media/13CoXDiaCcCoyk/giphy.gif)
