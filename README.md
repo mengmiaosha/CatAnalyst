@@ -19,7 +19,7 @@ def tool_kit():
 ```
 
 ![猫猫分析数据](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)  
-*(你最爱的敲键盘猫猫！)*
+*(正在努力敲代码的喵星人)*
 
 ---
 
@@ -71,4 +71,4 @@ for fact in cat_facts:
 ```
 </details>
 
-![猫猫办公](https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif)
+![猫猫监工](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTZqbmVmbG5zY2Z6Y3RqZ2JtZ3B0ZGNiNnJtYzZqZ2Z1eGZ1byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13CoXDiaCcCoyk/giphy.gif)
