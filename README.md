@@ -48,8 +48,7 @@ WHERE purr_approval = TRUE;
 ## 📮 **Contact Me**
 ```diff
 ! 📧 Email: mengmiaosha91@gmail.com  
-! 💼 LinkedIn: [Professional Profile](
-https://linkedin.com/in/chen-meng-023712316)
+! 💼 LinkedIn: [Professional Profile](https://linkedin.com/in/chen-meng-023712316)
 # Note: Slow response on weekends (probably cat-sitting)
 ```
 
