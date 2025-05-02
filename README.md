@@ -30,6 +30,53 @@ WHERE purr_approval = TRUE;
 -- > "Trained Excel models to behave better than cats"
 -- > "Data-proven: Cat food > Starbucks"
 ```
+---
+
+## 📊 Real Projects (Serious Stuff)
+
+### 🧠 Complaint Analysis & Product Optimization (Python + NLP)
+
+**Context:** At Generali China, recurring customer complaints were hurting retention.
+
+**Approach:**
+- Collected and cleaned 500+ complaints using `Pandas`, `NLTK`.
+- Extracted keywords with `TF-IDF` to identify pain points in claims and service processes.
+- Visualized issues using word clouds and co-occurrence matrices.
+- Worked with IT to implement SMS/email automation for claims.
+
+**Impact:**  
+🚀 Complaint volume dropped by **25%** in 4 months  
+🧩 3 core issues identified: delayed updates, unclear policy terms, claim amount confusion  
+📈 Insights led to updates in the customer communication flow and training materials
+
+<details>
+<summary>📷 Click to view visuals (Word Cloud etc.)</summary>
+
+![Word Cloud](https://your_image_link_here)  
+*(replace with real chart image link)*
+
+</details>
+
+---
+
+### 💼 High-Net-Worth Client Strategy (Excel + Business Design)
+
+**Context:** Average policy value too low to capture HNWI segment.
+
+**Approach:**
+- Restructured product portfolio to emphasize annuity & legacy products.
+- Partnered with trust companies to create bundled offers.
+- Launched a quarterly tax planning seminar program (35% conversion rate).
+- Designed a bonus model in `Excel/VBA` to incentivize HNWI-focused advisors.
+
+**Impact:**  
+💰 Raised HNWI client share from **10% → 30%** in one year  
+📊 Achieved **+40% New Business Value (NBV)** growth  
+🎯 Balanced client portfolio with sustainable premium mix
+
+---
+
+⛳ *Want to see full analysis or sample code? Ping me on [LinkedIn](https://linkedin.com/in/chen-meng-023712316) or email.*  
 
 ---
 
