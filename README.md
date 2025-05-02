@@ -17,9 +17,6 @@ def tool_kit():
         ]
     }
 ```
-
-![猫猫分析数据](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)  
-
 ---
 
 ## 🏆 **Career Highlights**
