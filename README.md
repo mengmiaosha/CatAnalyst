@@ -19,8 +19,11 @@ def solution_engine():
             "Cross-cultural solution validation"
         ]
     }
-🚀 Impact Highlights
-sql
+```
+---
+
+## 🚀 **Impact Highlights**
+```sql
 SELECT problem, solution, business_impact FROM career_achievements 
 WHERE innovation_score > 90;
 -- > "Customer complaints → Python NLP → 25% reduction"
