@@ -74,7 +74,7 @@ WHERE innovation_score > 90;
 
 📉 25% complaint reduction | 💰 15% retention lift | 🚀 40% faster resolution
 
-[![View Analysis Notebook](https://img.shields.io/badge/View_Analysis-Notebook-orange)]()
+[![View Analysis Notebook](https://img.shields.io/badge/View_Analysis-Notebook-orange)](https://github.com/mengmiaosha/ClientAnalysis)
 
 ### 👑 HNWI Growth Engine | Behavioral Clustering + Business Design
 
