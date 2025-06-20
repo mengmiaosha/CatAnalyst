@@ -92,7 +92,7 @@ WHERE innovation_score > 90;
 
 📈 HNWI share: 10% → 30% in 12 months | 💶 +40% NBV growth | 🏆 Balanced portfolio
 
-[![Strategy Deck PDF](https://img.shields.io/badge/Strategy_Deck-PDF-blue)]()
+[![Strategy Deck PDF](https://img.shields.io/badge/Strategy_Deck-PDF-blue)](https://github.com/mengmiaosha/ClientAnalysis)
 
 ### 🌍 TischZeit: Cross-Cultural Gaming Platform | Market Validation
 
@@ -110,7 +110,7 @@ WHERE innovation_score > 90;
 
 🌐 Language-filtered discovery | 🎮 Professional GM ecosystem | 📍 Geo-targeted events
 
-[![Interactive Prototype Figma](https://img.shields.io/badge/Interactive_Prototype-Figma-green)]()
+[![Interactive Prototype Figma](https://img.shields.io/badge/Interactive_Prototype-Figma-green)](https://github.com/mengmiaosha/TischZeit)
 
 ## 📊 **Data Alchemy Process**
 
