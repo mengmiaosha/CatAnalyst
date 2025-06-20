@@ -30,8 +30,12 @@ WHERE innovation_score > 90;
 -- > "HNWI segment → Behavioral clustering → 200% growth"
 -- > "Market gaps → RFM analysis → €300K opportunity"
 -- > "German board game barriers → TischZeit → 3 revenue streams"
-🔥 Signature Solution Projects
-🧠 Complaint-to-Cash Conversion | Python NLP + Process Design
+```
+---
+
+## 🔥 **Signature Solution Projects**
+
+### 🧠 Complaint-to-Cash Conversion | Python NLP + Process Design
 Problem: Recurring customer complaints draining retention at Generali
 My Solution:
 
@@ -45,7 +49,7 @@ Impact:
 
 https://img.shields.io/badge/View_Analysis-Notebook-orange
 
-👑 HNWI Growth Engine | Behavioral Clustering + Business Design
+### 👑 HNWI Growth Engine | Behavioral Clustering + Business Design
 Problem: Stagnant premium client segment at Generali China
 My Solution:
 
@@ -59,7 +63,7 @@ Impact:
 
 https://img.shields.io/badge/Strategy_Deck-PDF-blue
 
-🌍 TischZeit: Cross-Cultural Gaming Platform | Market Validation
+### 🌍 TischZeit: Cross-Cultural Gaming Platform | Market Validation
 Problem: Expats excluded from Germany's €400M board game market
 My Solution:
 
@@ -73,7 +77,7 @@ Key Features:
 
 https://img.shields.io/badge/Interactive_Prototype-Figma-green
 
-📊 Data Alchemy Process
+## 📊 **Data Alchemy Process**
 图表
 代码
 graph LR
@@ -85,7 +89,9 @@ D --> F[Revenue Leak Detection]
 E --> G[Scalable Solution]
 F --> G
 G --> H[Impact Validation]
-🐾 Feline-Approved Workflow
+
+---
+## 🐾 **Feline-Approved Workflow**
 diff
 # Solution Engineering Breakdown
 + Problem Sculpting ▰▰▰▰▰▰▰▰▰▰▰▰ 30% ("Is this a human or cat problem?")
@@ -93,14 +99,16 @@ diff
 + Stakeholder Magic ▰▰▰▰▰▰▰▰▰ 20% ("Translating meows to KPIs")
 + Impact Validation ▰▰▰▰▰▰▰ 15% ("Proving cats > consultants")
 + Cat Debugging     ▰▰▰▰▰ 10% ("Paws-on-keyboard testing")
-📬 Connect With a Solutionist
+
+---
+## 📬 **Connect With a Solutionist**
 diff
 ! 💌 Professional: mengmiaosha91@gmail.com  
 ! 💼 Strategy Talks: [LinkedIn](https://linkedin.com/in/chen-meng-023712316)
-! 🎮 TischZeit Collabs: @tischzeit_de
+
 # Note: Slow responses = debugging cat economics models
 <details> <summary>😼 Click for Feline Economics Principles</summary>
-python
+```python
 feline_economics = {
     "Principle 1": "1 bug fix = 3 chin scratches ROI",
     "Principle 2": "Code quality ∝ purring decibels",
@@ -110,6 +118,7 @@ feline_economics = {
 print("🐱 Feline-Approved Solution Framework:")
 for k, v in feline_economics.items():
     print(f"• {k}: {v}")
+```
 </details>
 https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif?cid=ecf05e47bq9fz3zqyv8vq8c9j0d8e7q5x7k6x9k7q3q1q3q9g&ep=v1_gifs_search&rid=giphy.gif&ct=g
 
